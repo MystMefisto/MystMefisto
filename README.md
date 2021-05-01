@@ -15,7 +15,7 @@
 </ul>
 <h2> RSS </h2>
 <div style="text-align:center">
-    <a href="https://www.instagram.com/mysmefisto"><img width="35px" src="img/instagram.png"></a>
+    <a href="https://www.instagram.com/mystmefisto"><img width="35px" src="img/instagram.png"></a>
     <a href="https://www.twitter.com/MystMefisto"><img width="35" src="img/twitter.png"></a>
     <br>
     <a href="https://linktr.ee/MefistoContreras" style="font-size:10px">More social media</a>
